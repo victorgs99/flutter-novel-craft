@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209171007962",
+    "project_id": "proyecto-fdw",
+    "storage_bucket": "proyecto-fdw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209171007962:android:7f87cddc4cfe6f97e058e3",
+        "android_client_info": {
+          "package_name": "com.example.bloc_de_ideas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209171007962-9vntvbvgn37i03ftvba87vtk9s06cuqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBZu7JdQPopyqO05E2tSSCDde0zAr1Of0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209171007962-9vntvbvgn37i03ftvba87vtk9s06cuqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
